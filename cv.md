@@ -18,6 +18,6 @@ alert( result )
 ```
 ## Experience
 ## Education
-*  **School**: School №46
+*  **School**: School №46 MBOY
 ## English
 A2
