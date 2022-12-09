@@ -1,1 +1,1 @@
-# rsschool-cv
+https://nonstormach.github.io/rsschool-cv/
