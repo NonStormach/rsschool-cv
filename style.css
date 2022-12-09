@@ -1,0 +1,182 @@
+html{
+    overflow-x: hidden;
+}
+body{
+    background-color: #17181c;
+  padding: 0px;
+  margin: 0px;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+.span{
+    position: relative;
+    background-color: whitesmoke;
+    opacity: 0%;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    top: 103px;
+    right: -402px;
+    border-radius: 4px;
+}
+.btn{
+    width: 130px;
+    height: 40px;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px 25px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    background: linear-gradient( #5865F2, #7289DA);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    top: 102px;
+    right: -394px;
+}
+.btn:hover + .span{
+    background: linear-gradient(#7289DA, #5865F2);
+    opacity: 100%;
+}
+.name{
+    text-align: center;
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+.kirill{
+    position: relative;
+    width: 257px;
+    height: 344px;
+    right: -586px;
+    border-radius: 30px;
+}
+.Cont{
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    color: white;
+}
+.copy-body{
+    width: 616px;
+    height: 425px;
+    background-color: #5865F2;
+    position: fixed;
+    top: 61px;
+    right: 417px;
+    opacity: 50%;
+    display: none;
+    z-index: 100000;
+}
+.copy{
+    position: absolute;
+    color: white;
+    text-align: center;
+    top: 151px;
+    right: 210px;
+    font-family: 'Lato', sans-serif;
+}
+.btn1{
+    width: 130px;
+    height: 40px;
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+    padding: 10px 25px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    background: linear-gradient( #FC3F1D, #bb5b4a);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    top: 44px;
+    right: -656px;
+}
+.btn1:hover + .spane{
+    background: linear-gradient(#FC3F1D, #bb5b4a);
+    opacity: 100%;
+}
+.spane{
+    position: relative;
+    background-color: whitesmoke;
+    opacity: 0%;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    top: 47px;
+    right: -664px;
+    border-radius: 4px;
+}
+.btn2{
+    width: 130px;
+    height: 40px;
+    color: rgb(255, 255, 255);
+    border-radius: 5px;
+    padding: 10px 25px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    background: linear-gradient( #47e427, #00da5b);
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    display: inline-block;
+    outline: none;
+    top: 93px;
+    right: -358px;
+}
+.spa{
+    position: relative;
+    background-color: whitesmoke;
+    opacity: 0%;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    top: 97px;
+    right: -368px;
+    border-radius: 4px;
+}
+.btn2:hover + .spa{
+    background: linear-gradient(#47e427, #00da5b);
+    opacity: 100%;
+}
+.coupon-alert{
+    display: none;
+    color: green;
+}
+.ski{
+    position: relative;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    right: -676px;
+    top: 100px;
+}
+ul{
+    position: relative;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    right: -634px;
+    top: 100px;
+}
+.code{
+    position: relative;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    right: -634px;
+    top: 100px;
+
+}
+code{
+    position: relative;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    right: -528px;
+    top: 100px;
+    background-color: gray;
+}
+.engi{
+    position: relative;
+    color: white;
+    font-family: 'Lato', sans-serif;
+    right: -665px;
+    top: 100px;
+}
